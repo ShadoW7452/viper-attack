@@ -35,7 +35,7 @@
 
 ### **From Source**
 ```bash
-git clone https://github.com/yourusername/viper-attack.git
+git clone https://github.com/ShadoW7452/viper-attack.git
 cd viper-attack
 make build
 sudo cp bin/viper /usr/local/bin/
