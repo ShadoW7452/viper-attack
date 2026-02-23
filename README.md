@@ -1,6 +1,6 @@
     [ Upload Exploitation Framework | AI-Powered | Stealth ]
    [ Anonymous Mode | Enterprise-Ready | 108+ Exploit Modules ]
-   [ Coded by: X Attacker Team | Remastered for Modern Web ]
+   
 
 # 🐍 VIPER ATTACK
 
