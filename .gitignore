@@ -1,0 +1,37 @@
+# Binaries
+/bin/
+/viper
+/viper.exe
+
+# Dependencies
+/vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data
+/data/scans/*
+/data/cve/*
+/logs/*.log
+!/logs/.gitkeep
+
+# Config with secrets
+/configs/proxies.yaml
+/configs/*.local.yaml
+
+# Build artifacts
+/dist/
+/cover.out
+*.test
+*.prof
+
+# Go workspace
+go.sum
