@@ -1,12 +1,6 @@
-
-═══════════════════════════════════════════════════════════════
-     VIPER ATTACK v1.0 - 2026
-═══════════════════════════════════════════════════════════════
-                    [ Upload Exploitation Framework | AI-Powered | Stealth ]
+    [ Upload Exploitation Framework | AI-Powered | Stealth ]
    [ Anonymous Mode | Enterprise-Ready | 108+ Exploit Modules ]
    [ Coded by: X Attacker Team | Remastered for Modern Web ]
-   [ ⚠️  WARNING: Unauthorized use           is illegal! ]
-═══════════════════════════════════════════════════════════════
 
 # 🐍 VIPER ATTACK
 
