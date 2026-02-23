@@ -1,0 +1,7 @@
+workers: 10
+delay: "5-30s"
+proxy:
+  required: true
+  chain: ["socks5://127.0.0.1:9050"]
+evasion: "maximum"
+verification: "full"
